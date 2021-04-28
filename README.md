@@ -1,3 +1,5 @@
+#DESAFIO PFA DOCKER - 01
+
 cd mysql  --> docker build -t hermeshostin/pfa-mysql .
 
 cd node --> docker build -t hermeshostin/pfa-node .
