@@ -3,7 +3,7 @@ const bodyParser = require("body-parser");
 var mysql      = require('mysql');
 
 var connection = mysql.createConnection({
-  host     : 'pfa-mysql',
+  host     : 'mysql',
   user     : 'root',
   password : 'root',
   database : 'pfa'
